@@ -23,7 +23,7 @@ jobs:
         env:
           STARRED_GITHUB_TOKEN: ${{ secrets.STARRED_GITHUB_TOKEN }}
         run: |
-          starred --username WuXiangM --token $STARRED_GITHUB_TOKEN --topic > README.md # --topic/sort 主题/语言分类
+          starred --username Nanxzi --token $STARRED_GITHUB_TOKEN --topic > README.md # --topic/sort 主题/语言分类
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
