@@ -137,6 +137,7 @@
 
 ## others 
 
+- [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) - Infinite Worlds with Versatile Interactions
 - [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) - 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
 - [Rimagination/scansci-pdf](https://github.com/Rimagination/scansci-pdf) - 
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
