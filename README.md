@@ -164,7 +164,7 @@
 - [UniPat-AI/UniScientist](https://github.com/UniPat-AI/UniScientist) - UniScientist is designed to advance universal scientific research intelligence through a unified paradigm
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
+- [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Offline Gemini image watermark restoration with reverse alpha blending. Native C++ GUI/CLI, batch processing, and optional GPU denoise.
 - [Kevin-thu/StoryMem](https://github.com/Kevin-thu/StoryMem) - Official code for StoryMem: Multi-shot Long Video Storytelling with Memory
 - [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) - GlobalBuildingAtlas: an open global and complete dataset of building polygons, heights and LoD1 3D models
 - [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
