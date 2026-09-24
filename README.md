@@ -37,6 +37,7 @@
 - [text-to-speech](#text-to-speech)
 - [framework](#framework)
 - [html](#html)
+- [ai-agent](#ai-agent)
 - [artificial-intelligence](#artificial-intelligence)
 - [javascript](#javascript)
 - [visualization](#visualization)
@@ -559,6 +560,13 @@
 
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [automeris-io/WebPlotDigitizer](https://github.com/automeris-io/WebPlotDigitizer) - Computer vision assisted tool to extract numerical data from plot images.
+
+## ai-agent 
+
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [Narcooo/inkos](https://github.com/Narcooo/inkos) - Story Creation AI Agent for novel, scripts, translation, interactive games, and IP content
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 
 ## artificial-intelligence 
 
