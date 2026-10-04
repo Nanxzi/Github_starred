@@ -80,6 +80,7 @@
 - [game-development](#game-development)
 - [data-analysis](#data-analysis)
 - [reactjs](#reactjs)
+- [windows-11](#windows-11)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [tensorflow](#tensorflow)
@@ -786,6 +787,11 @@
 ## reactjs 
 
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
+
+## windows-11 
+
+- [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## data-science 
 
