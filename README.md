@@ -98,6 +98,7 @@
 - [linux](#linux)
 - [macos](#macos)
 - [cli](#cli)
+- [downloader](#downloader)
 - [twitter](#twitter)
 - [low-code](#low-code)
 - [postgresql](#postgresql)
@@ -876,6 +877,10 @@
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Shell Superpowers for AI Agents.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
+
+## downloader 
+
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
 
 ## twitter 
 
