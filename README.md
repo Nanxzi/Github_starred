@@ -5,9 +5,11 @@
 
 ## Contents
 
+- [awesome-list](#awesome-list)
+- [games](#games)
+- [open-source](#open-source)
 - [generative-ai](#generative-ai)
 - [llm](#llm)
-- [open-source](#open-source)
 - [others](#others)
 - [claude-code](#claude-code)
 - [ai-agents](#ai-agents)
@@ -46,7 +48,6 @@
 - [reverse-engineering](#reverse-engineering)
 - [python3](#python3)
 - [agent-skills](#agent-skills)
-- [awesome-list](#awesome-list)
 - [awesome](#awesome)
 - [automation](#automation)
 - [developer-tools](#developer-tools)
@@ -140,6 +141,26 @@
 - [stable-diffusion](#stable-diffusion)
 - [web](#web)
 
+## awesome-list 
+
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+## games 
+
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+
+## open-source 
+
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
+- [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.
+- [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
+- [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
 ## generative-ai 
 
 - [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.
@@ -182,15 +203,6 @@
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-## open-source 
-
-- [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) - Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.
-- [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.
-- [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
-- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## others 
 
@@ -631,11 +643,6 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-
-## awesome-list 
-
-- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 ## awesome 
 
